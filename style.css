@@ -170,4 +170,8 @@ footer {
         bottom: -0.8rem;
         margin: 0 auto;
     }
+
+    .image-overview img {
+        border-radius: 10px 0 0 10px;
+    }
 }
